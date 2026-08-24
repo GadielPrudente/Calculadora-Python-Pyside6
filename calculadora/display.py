@@ -1,3 +1,6 @@
+#Projeto desenvolvido com colaboração.
+
+
 from PySide6.QtGui import QKeyEvent
 from PySide6.QtWidgets import QLineEdit
 from variaveis import BIG_FONT_SIZE, TEXT_MARGIN, MINIMUN_WITH
