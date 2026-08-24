@@ -1,4 +1,7 @@
 
+#Projeto desenvolvido com colaboração.
+
+
 import math
 from PySide6.QtWidgets import QPushButton, QGridLayout
 from PySide6.QtCore import Slot
